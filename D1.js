@@ -82,13 +82,9 @@ let ilTuoCognome="Sacchi"
 
 console.log (ilTuoCognome);
 
-const MYname="Vittoria"
+const Indirizzo="www.google.com
 
-console.log (MYname);
-
-const MylastName="Vittoria"
-
-console.log (MylastName);
+Indirizzo="www.google.com"
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
